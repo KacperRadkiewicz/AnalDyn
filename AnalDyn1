@@ -1,0 +1,6 @@
+par k=1
+s'=1
+x'=x^2-k
+init x=.8
+@ total=100, xlo=0,ylo=-2,xhi=5,yhi=2,xp=s,yp=x
+done
